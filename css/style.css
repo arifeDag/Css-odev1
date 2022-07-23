@@ -1,0 +1,56 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text-center {
+  text-align: center;
+}
+
+section {
+  margin: auto;
+  width: 800px;
+}
+
+#header-title {
+  text-align: center;
+
+  text-decoration: none;
+
+  line-height: 45px;
+  color: rgb(71, 17, 17);
+}
+
+ header {
+  margin: auto;
+  width: 850px; 
+  text-indent: 50px; 
+ }
+
+.altbaslik {
+  color: rgb(29, 29, 129);
+}
+
+.page-title {
+  text-align: center;
+}
+
+.title{
+    color: rgb(145, 15, 15);
+}
+    
+address{
+    display: table;
+}
+div.address{
+    width: 400px;   
+    display: table-cell
+    
+}
+
+div.contact{
+    width: 400px;   
+    display: table-cell
+
+}
